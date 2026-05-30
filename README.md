@@ -1,10 +1,7 @@
-# MMR-Language
-MRR (Memory Registers Rings)
-
 <div align="center">
 
-# 🌐 MRR Programlama Dili: Mühendislik, Donanım, Siber Güvenlik, Kernel Seviye Kodlama
-**Mikroişlemciden Bulut Mimarisine MRR Dili Felsefesi ve Çekirdek (Kernel) Sistem Kodlama**
+# 🌐 MRR Programlama Dili: Usta Mühendislik, Donanım ve Siber Güvenlik Rehberi
+**Mikroişlemciden Bulut Mimarisine MRR Dili Felsefesi ve Çekirdek (Kernel) Pratiği**
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
