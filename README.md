@@ -3,7 +3,7 @@ MRR (Memory Registers Rings)
 
 <div align="center">
 
-# 🌐 MRR Programlama Dili: Usta Mühendislik, Donanım ve Siber Güvenlik Rehberi
+# 🌐 MRR Programlama Dili: Mühendislik, Donanım, Siber Güvenlik, Kernel Seviye Kodlama
 **Mikroişlemciden Bulut Mimarisine MRR Dili Felsefesi ve Çekirdek (Kernel) Sistem Kodlama**
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
